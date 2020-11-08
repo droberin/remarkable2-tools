@@ -1,0 +1,8 @@
+*~
+*.pdf
+*.epub
+.idea
+__pychache__
+*.pyc
+venv
+.venv
